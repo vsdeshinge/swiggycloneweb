@@ -1,0 +1,14 @@
+div{
+    border: 2px solid rgb(0, 0, 0);
+    width: 150px;
+    height: 150px;
+    margin: 10px 20px 30px 40px; /*top right left bottom*/
+    background-color: orange ;
+}
+.box
+{
+  background-color: fuchsia;
+}
+.boxid{
+  background-color: aqua;
+}
